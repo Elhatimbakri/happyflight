@@ -24,7 +24,7 @@ To use **HappyFlight**, simply download or clone the repository and open the `in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tahrijouteyamer/happyflight.git
+   git clone https://github.com/elhatimbakri/happyflight.git
    ```
 
 2. Navigate to the project folder and open the `index.html` file in your browser.
